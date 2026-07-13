@@ -9,7 +9,7 @@ ai修改mod_av 支持硬解码、硬编码，To enable AI to modify the mod_av m
 ffmpeg -hide_banner -decoders | grep -E "cuvid|nvdec|cuda" 
 
 
- V..... av1_cuvid            Nvidia CUVID AV1 decoder (codec av1)
+ V..... av1_cuvid            Nvidia CUVID AV1 decoder (codec av1)  
  V..... h264_cuvid           Nvidia CUVID H264 decoder (codec h264)
  V..... hevc_cuvid           Nvidia CUVID HEVC decoder (codec hevc)
  V..... mjpeg_cuvid          Nvidia CUVID MJPEG decoder (codec mjpeg)
