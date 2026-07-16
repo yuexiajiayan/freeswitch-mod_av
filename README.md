@@ -29,3 +29,7 @@ ai修改mod_av 支持硬解码、硬编码，To enable AI to modify the mod_av m
  V....D hevc_nvenc           NVIDIA NVENC hevc encoder (codec hevc)  
 
 # 测试 16g gpu 大概能支持30人左右 720p,
+
+
+# 其他
+有呼叫系统需求：https://github.com/yuexiajiayan/freeswitch-management-platform
