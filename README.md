@@ -30,6 +30,11 @@ ai修改mod_av 支持硬解码、硬编码，To enable AI to modify the mod_av m
 
 # 测试 16g gpu 大概能支持30人左右 720p,
 
+# video_demo.zip 
+video_demo demo压缩
+
+# verto_communicator-dist.zip 
+verto_communicator 打包文件编译文件
 
 # 其他
 有呼叫系统需求：https://github.com/yuexiajiayan/freeswitch-management-platform
